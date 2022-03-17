@@ -6,6 +6,6 @@ Data Analysis has been around for a long time. But up until a few years ago, dev
 
 In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.</br>
 
-<b>USED:</b> Python, Jupiterbook, SQL, spredheets and csv, libraries like Numpy, Pandas, Matplotlib, scipy.stats and Seaborn
+<b>USED:</b> Python, Jupiterbook, SQL, spredheets and csv, libraries like Numpy, Pandas, Matplotlib, scipy.stats and Seaborn, git
 <br />
 <img src="certifies.png" alt="Certificate" />
