@@ -8,4 +8,4 @@ In the Data Analysis with Python Certification, you'll learn the fundamentals of
 
 <b>USED:</b> Python, Jupiterbook, SQL, spredheets and csv, libraries like Numpy, Pandas, Matplotlib, scipy.stats and Seaborn
 <br />
-<img src=“https://github.com/artlibitum-dev/freeCodeCamp-data-analysis-with-python/blob/master/certifies.png” alt="Certificate" />
+<img src="certifies.png" alt="Certificate" />
